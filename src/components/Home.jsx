@@ -11,7 +11,7 @@ const Home = () => {
           <Link to={'/company-signup'}><button className="btn btn-purple">Signup - Recruiters</button></Link>
           <Link to={'/student-signup'}><button className="btn btn-white">Signup - Student</button></Link>
         </div>
-        <p className="text-white/60 font-bold text-lg md:text-3xl mt-[200px] lg:mt-[120px] md:tracking-wider">You don&apos;t need love, you need a job! </p>
+        <p className="text-white/60 font-bold text-lg md:text-3xl mt-[200px] lg:mt-[120px] md:tracking-wider">You don&apos;t need love, you need a job!</p>
       </div>
     </div>
     </section>
